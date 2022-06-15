@@ -1,0 +1,7 @@
+# How to run binary on MAC?
+
+>: ./mac
+
+# How to run binary on Windows?
+
+>: mac.exe
